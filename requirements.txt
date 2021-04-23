@@ -1,0 +1,5 @@
+Django==3.1.2
+djangorestframework==3.12.1
+drf_social_oauth2==1.0.9
+python-decouple==3.4
+django-cors-headers==3.7.0
